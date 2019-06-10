@@ -4,8 +4,8 @@ node_js:
 
 env:
   global:
-    - GIT_NAME: Travis CI
-    - GIT_EMAIL: nobody@nobody.org
+    - GIT_NAME: cryptoabhi
+    - GIT_EMAIL: abhi.codes0@gmail.com
     - GITHUB_REPO: ethdocs/ethdocs.github.io
     - GIT_SOURCE: _docpress
 
