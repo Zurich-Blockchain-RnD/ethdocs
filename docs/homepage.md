@@ -1,3 +1,5 @@
+# Homepage
+
 Welcome to Ethdocs – a precision crowd-sourced curation of blockchain content and guides
 
 Reading up on anything blockchain online can be daunting. A lot of overlap, mistakes, partial information, even misinformation, and more could make this task much more difficult than it should be. This is a general problem with finding information on the internet and we worked hard to try to solve this problem specifically in blockchain by using technology. We hope you find this system effective and that we help save you a lot of your precious time and energy which no other should be wasting.
@@ -14,7 +16,6 @@ If a picture can be worth 1000 words, then showing you how this technology works
 [Dapp development](add link) – Connect your web application to the blockchain 
 
 
-
-
 ### About
-This project is the result of an open collaboration initiative by the [Zurich Blockchain RnD group](https://zbrd.org/) in switzerland and the [EthDevs.io](https://www.ethdevs.io/) team. We try to build free (also as in free beer, yes) blockchain communities to benefit all. Your contributions are very welcome
+This project is the result of an open collaboration initiative by the [Zurich Blockchain RnD group](https://zbrd.org/) in switzerland and the [EthDevs.io](https://www.ethdevs.io/) team. We try to build free (also as in free beer, yes) blockchain communities to benefit all. Your contributions are very welcome.
+
