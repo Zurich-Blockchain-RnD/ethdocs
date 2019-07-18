@@ -11,3 +11,5 @@ Just follow our group [Blockchain programing](https://hypothes.is/groups/wg6R1aK
 
 ## Try it out:
 Press this [link](https://hyp.is/olt6kql0EemlrW8fimYlEw/www.geo.tv/latest/243287-secp-issues-search-and-seizure-rules-for-property) to see how Hypothes works. If you sign up you can join the conversation but you can also view only.
+
+Join the conversation about [this piece of news](https://hyp.is/ZnvGDKl1EemcK1cCxyOLkw/www.geo.tv/latest/243287-secp-issues-search-and-seizure-rules-for-property)
