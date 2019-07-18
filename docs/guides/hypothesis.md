@@ -10,4 +10,4 @@ the confinements of the traditional way of exploring the internet. See you on th
 Just follow our group [Blockchain programing](https://hypothes.is/groups/wg6R1aKJ/blockchain-programming). This should take you through the registration process and installation of the extension in Brave or Chrome.
 
 ## Try it out:
-Press this (link)[https://hyp.is/olt6kql0EemlrW8fimYlEw/www.geo.tv/latest/243287-secp-issues-search-and-seizure-rules-for-property] to see how Hypothes works. If you sign up you can join the conversation but you can also view only.
+Press this [link](https://hyp.is/olt6kql0EemlrW8fimYlEw/www.geo.tv/latest/243287-secp-issues-search-and-seizure-rules-for-property) to see how Hypothes works. If you sign up you can join the conversation but you can also view only.
