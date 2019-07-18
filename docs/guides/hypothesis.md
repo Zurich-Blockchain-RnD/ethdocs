@@ -9,12 +9,5 @@ the confinements of the traditional way of exploring the internet. See you on th
 ## To install on desktop:
 Just follow our group [Blockchain programing](https://hypothes.is/groups/wg6R1aKJ/blockchain-programming). This should take you through the registration process and installation of the extension in Brave or Chrome.
 
-## To install on Android:
-We need a browser that can support the Hypothes chrome extension. We currently only know about Yandex and it does a pretty good job 
-(though not perfect).
-
-1. Download Yandex browser from your android device: [Yandex browser with protect](https://play.google.com/store/apps/details?id=com.yandex.browser&hl=en)
-2. In Yandex you can click this [link](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek) and add the extension or find and add "Hypothesis - Web & PDF Annotation" through the 
-google chrome store
-3. In Yandex, go to menu -> extensions -> click Hypothes extension. The chat box should turn black instead of gray and you should now be able
-to follow our curations and community.
+## Try it out:
+Press this (link)[https://hyp.is/olt6kql0EemlrW8fimYlEw/www.geo.tv/latest/243287-secp-issues-search-and-seizure-rules-for-property] to see how Hypothes works. If you sign up you can join the conversation but you can also view only.
